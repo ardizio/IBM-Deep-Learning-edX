@@ -1,6 +1,6 @@
 # IBM-Deep-Learning-edX
 
-I have created a Github repo where I've uploaded my 26 pages of handwritten notes and all my Jupyter Notebooks, including exercises and Final Exams.
+I have created this repo where I've uploaded my 26 pages of handwritten notes and all my Jupyter Notebooks, including exercises and Final Exams.
 
 Notes:
 - "Deep Learning with Keras" is, in my opinion, possibly the best introductory DL course available. Having attended several others (both online and in-person), I found this one to be minimalistic yet comprehensive, offering depth within its simplicity. Credit goes to Alex Aklson.
